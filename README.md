@@ -2,7 +2,7 @@
 
 - Spring Boot 연습을 위해 REST-API 기반으로 CRUD하는 프로젝트입니다. 
 
-## 실행 결과
+## Front
 
 
 ![image](https://user-images.githubusercontent.com/55589616/104842793-74429e00-590a-11eb-9326-222b8221fc4c.png)
