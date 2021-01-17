@@ -10,7 +10,7 @@
 
 
 
-## 데이터 베이스
+## Data Base
 
 
 ![image](https://user-images.githubusercontent.com/55589616/104842971-a86a8e80-590b-11eb-95bc-27532611d6ef.png)
